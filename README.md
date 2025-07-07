@@ -2,9 +2,9 @@
 A Study by the Movey Lab at the Eramsus University Rotterdam that explores how Linguistic Similarity Affects Persuasive Message Preferences of Adolescents
 
 We tested three hypotheses: <br>
-<B>(H1)<\B> Adolescents will prefer a health message that more closely matches their linguistic style compared to a less similar health message.<br>
-<B>(H2)<\B> The greater the linguistic similarity between participants' social media messages and the preferred health message, the higher the perceived personalization of the health message. <br>
-<B>(H3)<\B> The greater the linguistic similarity between participants' social media messages and the preferred health message, the higher the perceived effectiveness of the health message.<br>
+<B>(H1)</B> Adolescents will prefer a health message that more closely matches their linguistic style compared to a less similar health message.<br>
+<B>(H2)</B> The greater the linguistic similarity between participants' social media messages and the preferred health message, the higher the perceived personalization of the health message. <br>
+<B>(H3)</B> The greater the linguistic similarity between participants' social media messages and the preferred health message, the higher the perceived effectiveness of the health message.<br>
 
 *Further, we explored two additional trends:*
 1. Does valence moderate the effect of linguistic similarity on message preference?
