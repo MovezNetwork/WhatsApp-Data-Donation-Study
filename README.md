@@ -1,5 +1,5 @@
 # WhatsApp-Data-Donation-Study
-A Study by the Movey Lab at the Eramsus University Rotterdam that explores how Linguistic Similarity Affects Persuasive Message Preferences of Adolescents
+A Study by the Movez Lab at the Erasmus University Rotterdam that explores how linguistic similarity affects persuasive message preferences of adolescents
 
 We tested three hypotheses: <br>
 <B>(H1)</B> Adolescents will prefer a health message that more closely matches their linguistic style compared to a less similar health message.<br>
@@ -12,7 +12,7 @@ We tested three hypotheses: <br>
 
 
 ### What did we do?
-1. We collected a large writing sample from adolescents via the Data Donation platform PORT
+1. We collected a large writing sample of adolescents via the Data Donation platform PORT
 2. We preprocessed the Chat Data (see, Notebook: *Data Donation Preparation*)
 3. We caluclated Message Similarity Scores via the Linguistic Inquiry and Word Count tool (LIWC22, see Notebook: *LIWC Data Preparation*)
 4. We gathered survey data from adolescents to assess their message preference in a survey experiment (see, Notebook: *Survey Data Preparation*)
